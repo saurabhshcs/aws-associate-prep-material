@@ -1,4 +1,4 @@
-# aws-associate-prep-material
+# aws-certificate-associate-level-prep-material
 
 > AWS Associate Certification Prepration Material with hands on labs by Saurabh Sharma
 
